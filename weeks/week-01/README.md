@@ -1,0 +1,8 @@
+- [ ] .gitignore committed BEFORE the first `git add .`
+- [ ] README.md at the root - even if it is only the title and one sentence
+- [ ] LICENSE (MIT) - nothing is reusable without it
+- [ ] weeks/week-01/ with README.md, notes.md and exercises/
+- [ ] journal/week-01.md and journal/debugging.md started
+- [ ] docs/setup.md - write down how you installed Python while you still remember
+- [ ] First commit with a real message: chore: initialise python-journey
+- [ ] Repository pushed and visible on your profile
