@@ -56,7 +56,7 @@ python-journey/
  
 | Phase | Weeks | Theme | Hours | Status |
 |---|---|---|---|---|
-| 1 | 1-13 | Foundations - syntax, scripts, testing, first shipped CLI | 305 | Not started |
+| 1 | 1-13 | Foundations - syntax, scripts, testing, first shipped CLI | 305 | started |
 | 2 | 14-26 | Core proficiency - stdlib, OOP, data, packaging, Git/GitHub | 285 | Not started |
 | 3 | 27-40 | Professional practice - APIs, architecture, typing, CI, PyPI | 340 | Not started |
 | 4 | 41-52 | Specialisation and career - capstone, open source, job search | 290 | Not started |
